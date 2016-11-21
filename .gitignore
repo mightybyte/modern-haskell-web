@@ -1,0 +1,9 @@
+log
+cabal.sandbox.config
+.cabal-sandbox
+dist
+*.swp
+static/sets.js
+site_key.txt
+site_users.json
+sets.js

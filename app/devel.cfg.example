@@ -1,0 +1,11 @@
+postgresql {
+  host = "localhost"
+  port = 5432
+  user = "postgres"
+  pass = ""
+  db   = "test"
+
+  numStripes = 1
+  idleTime = 5
+  maxResourcesPerStripe = 20
+}

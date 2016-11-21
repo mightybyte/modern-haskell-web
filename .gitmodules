@@ -1,0 +1,33 @@
+[submodule "deps/diagrams-svg"]
+	path = deps/diagrams-svg
+	url = git@github.com:diagrams/diagrams-svg.git
+[submodule "deps/diagrams-contrib"]
+	path = deps/diagrams-contrib
+	url = git@github.com:diagrams/diagrams-contrib.git
+[submodule "deps/diagrams-lib"]
+	path = deps/diagrams-lib
+	url = git@github.com:diagrams/diagrams-lib.git
+[submodule "deps/diagrams-core"]
+	path = deps/diagrams-core
+	url = git@github.com:diagrams/diagrams-core.git
+[submodule "deps/diagrams-solve"]
+	path = deps/diagrams-solve
+	url = git@github.com:diagrams/diagrams-solve.git
+[submodule "deps/force-layout"]
+	path = deps/force-layout
+	url = git@github.com:diagrams/force-layout.git
+[submodule "deps/active"]
+	path = deps/active
+	url = git@github.com:diagrams/active.git
+[submodule "deps/groundhog"]
+	path = deps/groundhog
+	url = https://github.com/imalsogreg/groundhog
+[submodule "deps/criterion"]
+	path = deps/criterion
+	url = https://github.com/RyanGlScott/criterion.git
+[submodule "deps/reflex-platform"]
+	path = deps/reflex-platform
+	url = git@github.com:reflex-frp/reflex-platform.git
+[submodule "deps/rating-systems"]
+	path = deps/rating-systems
+	url = https://github.com/mightybyte/rating-systems.git

@@ -1,0 +1,9 @@
+packages: modern-haskell-web.cabal
+          ../deps/groundhog/groundhog/groundhog.cabal
+          ../deps/groundhog/groundhog-postgresql/groundhog-postgresql.cabal
+          ../deps/groundhog/groundhog-th/groundhog-th.cabal
+
+constraints:
+  aeson >= 1.0
+
+allow-newer: transformers, aeson
